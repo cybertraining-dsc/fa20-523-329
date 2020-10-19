@@ -2,6 +2,7 @@ Wanru Li
 INFO-I423
 Geoffrey Fox
 Oct 19, 2020
+
 Internet of Medical Things Applications from Watches to Toothbrushes
 	An electronic toothbrush is a popular good during the current life. It’s better to use when brushing the teeth. Electronic toothbrushes are accepted by most people. Nowadays, electronic toothbrushes are also linked to the internet of medical things applications. The application can notify the user where they didn’t brush. The applications also can tell the users what inflammation they have and notify them to visit the dentist. 
 	Dr. Vinati Kamani mentioned that the number of connected devices currently available is rising rapidly, widely referred to as smart devices on the market. The list of gadgets varies from smartphones to intelligent homes and there are no limitations on future implementations. In medicine, mobile systems not only revolutionize auto-health monitoring as part of the internet of medical devices but also improve healthcare by offering telehealth and remote control. You all communicate directly or indirectly with some servers hosted online via your phone or Wi-Fi router (Kamani, para 5).
