@@ -3,12 +3,14 @@
 - [ ] please use our template
 - [ ] please learn markdown 
 
-Wanru Li
-INFO-I423
-Geoffrey Fox
-Oct 19, 2020
-Get Started in Final Project Plan
---Big Data in E-Commerce
+# Aquatic Toxicity Analysis with the aid of Autonomous Surface Vehicle (ASV)
+
+Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [Edit](https://github.com/cybertraining-dsc/fa20-523-312/blob/master/report/report.md)
+
+{{% pageinfo %}}
+
+## Abstract
+
 	This is an individual project, I plan to accomplish the report by myself. The topic of my report is big data in e-commerce. In my life, e-commerce is a big part of my life. During the shopping online, the recommend commodities are fitter and fitter for my liking and willingness to buy. This is the merit of big data. Big data use my purchase history and browsing history to analyze my liking and recommend the goods for me.
 	
 For the dataset, I will use the source website provided in the project requirements, if there needs more information, I will search for data and information on the web. As a result of recent COVID-19 incidents, many organizations work in a small capacity or have entirely ceased activities. The Census Bureau has tracked and analyzed the response and data quality in this manner.
