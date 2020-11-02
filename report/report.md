@@ -4,9 +4,7 @@
 - [ ] please learn markdown 
 
 # Big Data in E-Commerce
-Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [Edit](https://github.com/cybertraining-dsc/fa20-523-312/blob/master/report/report.md)
-
-{{% pageinfo %}}
+Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [Edit](https://github.com/cybertraining-dsc/fa20-523-329/blob/master/report/report.md)
 
 ## Abstract
 
