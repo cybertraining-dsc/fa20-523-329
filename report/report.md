@@ -3,13 +3,24 @@
 - [ ] please use our template
 - [ ] please learn markdown 
 - [ ] use proper hyperlinks in refernce section
+- [ ] what is progress?
 
-# Big Data in E-Commerce
 Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [Edit](https://github.com/cybertraining-dsc/fa20-523-329/blob/master/report/report.md)
+
+{{% pageinfo %}}
 
 ## Abstract
 
-This is an individual project, I plan to accomplish the report by myself. The topic of my report is big data in e-commerce. In my life, e-commerce is a big part of my life. During the shopping online, the recommend commodities are fitter and fitter for my liking and willingness to buy. This is the merit of big data. Big data use my purchase history and browsing history to analyze my liking and recommend the goods for me.
+The topic of my report is big data in e-commerce. In my life, e-commerce is a big part of my life. During the shopping online, the recommend commodities are fitter and fitter for my liking and willingness to buy. This is the merit of big data. Big data use my purchase history and browsing history to analyze my liking and recommend the goods for me.
+
+Contents
+
+{{< table_of_contents >}}
+
+{{% /pageinfo %}}
+
+**Keywords:** Missing
+
 
 ## 1. Introduction
 
