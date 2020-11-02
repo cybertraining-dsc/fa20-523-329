@@ -79,6 +79,6 @@ For a good report, I will look for some good examples of big data in e-commerce 
 
 ## 8. References
 
-[^1]: Olechowski, Artur. “Big Data in E-Commerce: Key Trends and Tips for Beginners: Codete Blog.” Codete Blog - We Share Knowledge for IT Professionals, CODETE, 8 Sept 2020. <codete.com/blog/big-data-in-ecommerce/> 
+[^1]: Olechowski, Artur. “Big Data in E-Commerce: Key Trends and Tips for Beginners: Codete Blog.” Codete Blog - We Share Knowledge for IT Professionals, CODETE, 8 Sept 2020. <https://codete.com/blog/big-data-in-ecommerce/> 
 
 [^2]: QUARTERLY RETAIL E-COMMERCE SALES 2 nd QUARTER 2020. (2020). Retrieved 2020. <https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf>
