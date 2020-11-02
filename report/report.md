@@ -4,6 +4,7 @@
 - [ ] please learn markdown 
 - [ ] use proper hyperlinks in refernce section
 - [ ] what is progress?
+- [ ] review who to cite, we do not use apa we use ieee
 
 Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [Edit](https://github.com/cybertraining-dsc/fa20-523-329/blob/master/report/report.md)
 
@@ -28,7 +29,9 @@ This section will be addressed upon project completion.
 
 ## 2. Background Research and Previous Work
 
-As Artur Olechowski wrote, “According to the IDC, the digital universe of data will grow by 61% to reach a smashing 175 zettabytes worldwide by 2025. There’s no denying that a large chunk of the digital world belongs to e-commerce, which takes advantage of customer social media activity, web browser history, geolocation, and data about abandoned online shopping carts. Most e-commerce businesses are able to collect and process data at scale today. Many of them leverage data analytics to understand their customers’ purchasing behaviors, follow the changing market trends, gain insights that allow them to become more proactive, deliver more personalized experiences to customers. The global Big Data in the e-commerce industry is expected to grow at a CAGR of 13.27% between 2019 and 2028. But what exactly is Big Data? And how can e-commerce businesses capture this powerful technology trend to their advantage? In this article, we take a closer look at the key trends in the usage of Big Data technologies by e-commerce companies and offer you some tips to help you get started in this game-changing field (Olechowski, para 1-4)”.
+As Artur Olechowski wrote, “According to the IDC, the digital universe of data will grow by 61% to reach a smashing 175 zettabytes worldwide by 2025. There’s no denying that a large chunk of the digital world belongs to e-commerce, which takes advantage of customer social media activity, web browser history, geolocation, and data about abandoned online shopping carts. Most e-commerce businesses are able to collect and process data at scale today. Many of them leverage data analytics to understand their customers’ purchasing behaviors, follow the changing market trends, gain insights that allow them to become more proactive, deliver more personalized experiences to customers. The global Big Data in the e-commerce industry is expected to grow at a CAGR of 13.27% between 2019 and 2028. But what exactly is Big Data? And how can e-commerce businesses capture this powerful technology trend to their advantage? In this article, we take a closer look at the key trends in the usage of Big Data technologies by e-commerce companies and offer you some tips to help you get started in this game-changing field (Olechowski, para 1-4)”. 
+
+THIS IS NOT A PROPER IEEE CITATION
 	
 The most common and widely used application of big data is in e-commerce. Nowadays, the application of big data in e-commerce is relatively mature. As Artur Olechowski wrote, “As businesses scale up, they also collect an increasing amount of data. They need to get interested in data and its processing; this is just inevitable. That’s why a data-driven e-commerce company should regularly measure and improve upon: shopper analysis, customer service personalization, customer experience, the security of online payment processing, targeted advertising （para11)”.
 	
