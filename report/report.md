@@ -2,6 +2,7 @@
 
 - [ ] please use our template
 - [ ] please learn markdown 
+- [ ] use proper hyperlinks in refernce section
 
 # Big Data in E-Commerce
 Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [Edit](https://github.com/cybertraining-dsc/fa20-523-329/blob/master/report/report.md)
