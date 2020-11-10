@@ -1,5 +1,7 @@
 # Big Data in E-Commerce
 
+[![Check Report](https://github.com/cybertraining-dsc/fa20-523-329/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-329/actions)
+
 - [ ] please use our template
 - [ ] please learn markdown 
 - [ ] use proper hyperlinks in refernce section
