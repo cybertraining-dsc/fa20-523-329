@@ -2,8 +2,6 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-329/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-329/actions)
 
-- [ ] Please try to re-phrase the content within quotes. Also make sure to use " " to add quotes.
-
 Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [Edit](https://github.com/cybertraining-dsc/fa20-523-329/blob/master/report/report.md)
 
 {{% pageinfo %}}
@@ -101,4 +99,4 @@ E-Commerce firms have also contributed to the rise of e-Commerce through methodo
 
 [^4]: “US Ecommerce Growth Jumps to More than 30%, Accelerating Online Shopping Shift by Nearly 2 Years.” EMarketer, 12 Oct. 2020. <https://www.emarketer.com/content/us-ecommerce-growth-jumps-more-than-30-accelerating-online-shopping-shift-by-nearly-2-years>
 
-[^4]: Kerick, Fru. “The Growth of Ecommerce.” Medium, The Startup, 1 Jan. 2020. <https://medium.com/swlh/the-growth-of-ecommerce-2220cf2851f3#:~:text=What%20Exactly%20is%20E%2Dcommerce,%2C%20apparel%2C%20software%2C%20furniture> 
+[^5]: Kerick, Fru. “The Growth of Ecommerce.” Medium, The Startup, 1 Jan. 2020. <https://medium.com/swlh/the-growth-of-ecommerce-2220cf2851f3#:~:text=What%20Exactly%20is%20E%2Dcommerce,%2C%20apparel%2C%20software%2C%20furniture> 
