@@ -2,11 +2,6 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-329/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-329/actions)
 
-- [ ] please use our template
-- [ ] please learn markdown 
-- [ ] use proper hyperlinks in refernce section
-- [ ] what is progress?
-- [ ] review who to cite, we do not use apa we use ieee
 - [ ] Please try to re-phrase the content within quotes. Also make sure to use " " to add quotes.
 
 Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [Edit](https://github.com/cybertraining-dsc/fa20-523-329/blob/master/report/report.md)
@@ -90,8 +85,11 @@ Online commerce will be so high that this year, at $4,711 trillion, this will mo
 
 ## 5. Conclusion
 
-This section will be addressed upon project completion.
+More users are benefiting from the majority of online resources, including eCommerce, as internet penetration and connectivity improve. In everyday life e-commerce has become a mainstream, with fundamental advantages. The e-commerce market is projected to reverse double digit growth in net accounts from anywhere around the world. However, e-commerce can expand enormously as digital payment options are growing in these areas. About 22% of the world's stores are now online. By 2021, e-Commerce online revenues are projected to hit $5 trillion.
 
+Fru Kerik says, "The most popular eCommerce businesses worldwide are Amazon, Alibaba, eBay, and Walmart. These eCommerce giants have redefined the retail industry irrespective of location. They accumulate revenues that exceed billions of dollars yearly. As internet accessibility increases, these estimates would skyrocket. At the time of this writing, Amazon is present in 58 countries, Alibaba in 15, Walmart in 27, MercadoLibre in 18" [^5].
+
+E-Commerce firms have also contributed to the rise of e-Commerce through methodological findings. E-Commerce firms follow customer expectations and make important discoveries about the business-to-consumer model. These insights are then incorporated in market models, ensuring smooth future revenue increase globally.
 
 ## 6. References
 
@@ -102,3 +100,5 @@ This section will be addressed upon project completion.
 [^3]: “7 Ways Big Data Will Change E-Commerce Business In 2019 | Talend”. Talend Real-Time Open Source Data Integration Software, 2020. <https://www.talend.com/resources/big-data-ecommerce/>
 
 [^4]: “US Ecommerce Growth Jumps to More than 30%, Accelerating Online Shopping Shift by Nearly 2 Years.” EMarketer, 12 Oct. 2020. <https://www.emarketer.com/content/us-ecommerce-growth-jumps-more-than-30-accelerating-online-shopping-shift-by-nearly-2-years>
+
+[^4]: Kerick, Fru. “The Growth of Ecommerce.” Medium, The Startup, 1 Jan. 2020. <https://medium.com/swlh/the-growth-of-ecommerce-2220cf2851f3#:~:text=What%20Exactly%20is%20E%2Dcommerce,%2C%20apparel%2C%20software%2C%20furniture> 
