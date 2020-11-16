@@ -74,9 +74,19 @@ The estimates containing sample errors and non-sample errors in this article are
 
 The difference between the prediction and the results of the full population listing under the same sample conditions is the sampling error. This mistake happens when a national poll only tests a sub-set of the total population. Estimated sampling variance measurements are standard errors and variance coefficients, as stated in Table 2 of this article.
 
-## 4. Analysis
+## 4. Search and Analysis
 
-This section will be addressed upon project completion.
+This year the pandemic accelerated growth in ecommerce in the US, with online revenues projected to hit just 2022. The top 10 ecommerce retailers will strengthen their hold on the retail market with our Q3 American retail prediction.
+
+This year, revenues of US eCommerce are projected to hit $794.50 billion, up 32.4% annually. This is even more than the 18.0% predicted in our Q2, since customers are now ignoring shops and opting to buy online in the wake of the pandemic.
+
+In "US Ecommerce Growth Jumps to More than 30%, Accelerating Online Shopping Shift by Nearly 2 Years", it says, "'We’ve seen ecommerce accelerate in ways that didn’t seem possible last spring, given the extent of the economic crisis,' said Andrew Lipsman, eMarketer principal analyst at Insider Intelligence. 'While much of the shift has been led by essential categories like grocery, there has been surprising strength in discretionary categories like consumer electronics and home furnishings that benefited from pandemic-driven lifestyle needs'" [^4].
+
+This year, ecommerce revenues are projected to hit 14.4 percent and 19.2 percent of all US retail spending by 2024. Without purchases of petrol and cars, ecommerce penetration leaps to 20.6% (classes sold almost entirely offline).
+
+In "US Ecommerce Growth Jumps to More than 30%, Accelerating Online Shopping Shift by Nearly 2 Years", it writes, "'There will be some lasting impacts from the pandemic that will fundamentally change how people shop,' said Cindy Liu, eMarketer senior forecasting analyst at Insider Intelligence. 'For one, many stores, particularly department stores, may close permanently. Secondly, we believe consumer shopping behaviors will permanently change. Many consumers have either shopped online for the first time or shopped in new categories (i.e., groceries). Both the increase in new users and frequency of purchasing will have a lasting impact on retail'" [^4].
+
+Online commerce will be so high that this year, at $4,711 trillion, this will more than compensate for the 3,2 percent fall in brick and mortar expenses. Complete US retail revenue will also remain relatively flat.
 
 ## 5. Conclusion
 
@@ -90,3 +100,5 @@ This section will be addressed upon project completion.
 [^2]: QUARTERLY RETAIL E-COMMERCE SALES 2 nd QUARTER 2020. (2020). Retrieved 2020. <https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf>
 
 [^3]: “7 Ways Big Data Will Change E-Commerce Business In 2019 | Talend”. Talend Real-Time Open Source Data Integration Software, 2020. <https://www.talend.com/resources/big-data-ecommerce/>
+
+[^4]: “US Ecommerce Growth Jumps to More than 30%, Accelerating Online Shopping Shift by Nearly 2 Years.” EMarketer, 12 Oct. 2020. <www.emarketer.com/content/us-ecommerce-growth-jumps-more-than-30-accelerating-online-shopping-shift-by-nearly-2-years> 
