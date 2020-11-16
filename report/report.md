@@ -101,4 +101,4 @@ This section will be addressed upon project completion.
 
 [^3]: “7 Ways Big Data Will Change E-Commerce Business In 2019 | Talend”. Talend Real-Time Open Source Data Integration Software, 2020. <https://www.talend.com/resources/big-data-ecommerce/>
 
-[^4]: “US Ecommerce Growth Jumps to More than 30%, Accelerating Online Shopping Shift by Nearly 2 Years.” EMarketer, 12 Oct. 2020. <www.emarketer.com/content/us-ecommerce-growth-jumps-more-than-30-accelerating-online-shopping-shift-by-nearly-2-years> 
+[^4]: “US Ecommerce Growth Jumps to More than 30%, Accelerating Online Shopping Shift by Nearly 2 Years.” EMarketer, 12 Oct. 2020. <www.emarketer.com/content/us-ecommerce-growth-jumps-more-than-30-accelerating-online-shopping-shift-by-nearly-2-years>
