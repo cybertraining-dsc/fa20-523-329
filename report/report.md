@@ -17,6 +17,10 @@ Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [E
 
 The topic of my report is big data in e-commerce. In my life, e-commerce is a big part of my life. During the shopping online, the recommend commodities are fitter and fitter for my liking and willingness to buy. This is the merit of big data. Big data use my purchase history and browsing history to analyze my liking and recommend the goods for me.
 
+In our everyday lives, e-commerce is now a critical element. It redefines trading practices worldwide. Over the years the growth of eCommerce has been profound. As we move forward, we are learning how to grow eCommerce in this era and how to run an eCommerce company. The dominant mode of trading was brick-and-mortar until the rise of eCommerce. Brick and mortar firms have at least one physical location in supermarket stores. Goods must be bought and sold by active and physical contacts between the buyer and the seller. Brick and mortar trading continues, but eCommerce is increasingly replacing. Many brick and mortar retailers in an evolutionary manner turn themselves into eCommerce stores. This includes an online presence and bringing key company practices online.
+
+The eCommerce market is increasingly developing as the Internet becomes more available in various areas of the world. Traditional retail companies are migrating to the eCommerce space. Expand their appeal to customers and remain competitive as well. It is clear that the eCommerce shops provide great experiences for customers. An improved flexibility of the Internet, faster purchases, plenty of goods and customized deals, the lack of physical presence restrictions and interaction make it attractive for customers to buy online. E-commerce has many advantages for you, whether you are a company or a customer. Learn all about powering eCommerce sites such as Shopify and Big Commerce online shops.
+
 Contents
 
 {{< table_of_contents >}}
@@ -43,8 +47,6 @@ E-commerce is bound to dominate the retail market in the future because it can h
 ## 2. Background Research and Previous Work
 
 As Artur Olechowski wrote, "According to the IDC, the digital universe of data will grow by 61% to reach a smashing 175 zettabytes worldwide by 2025. There’s no denying that a large chunk of the digital world belongs to e-commerce, which takes advantage of customer social media activity, web browser history, geolocation, and data about abandoned online shopping carts. Most e-commerce businesses are able to collect and process data at scale today. Many of them leverage data analytics to understand their customers’ purchasing behaviors, follow the changing market trends, gain insights that allow them to become more proactive, deliver more personalized experiences to customers. The global Big Data in the e-commerce industry is expected to grow at a CAGR of 13.27% between 2019 and 2028. But what exactly is Big Data? And how can e-commerce businesses capture this powerful technology trend to their advantage? In this article, we take a closer look at the key trends in the usage of Big Data technologies by e-commerce companies and offer you some tips to help you get started in this game-changing field" [^1]. 
-
-THIS IS NOT A PROPER IEEE CITATION
 	
 The most common and widely used application of big data is in e-commerce. Nowadays, the application of big data in e-commerce is relatively mature. As Artur Olechowski wrote, "As businesses scale up, they also collect an increasing amount of data. They need to get interested in data and its processing; this is just inevitable. That’s why a data-driven e-commerce company should regularly measure and improve upon: shopper analysis, customer service personalization, customer experience, the security of online payment processing, targeted advertising" [^1].
 	
@@ -72,25 +74,16 @@ The estimates containing sample errors and non-sample errors in this article are
 
 The difference between the prediction and the results of the full population listing under the same sample conditions is the sampling error. This mistake happens when a national poll only tests a sub-set of the total population. Estimated sampling variance measurements are standard errors and variance coefficients, as stated in Table 2 of this article.
 
-## 4. Methodology
+## 4. Analysis
 
 This section will be addressed upon project completion.
 
-## 5. Inference
+## 5. Conclusion
 
 This section will be addressed upon project completion.
 
-## 6. Conclusion
 
-This section will be addressed upon project completion.
-
-## 7. Acknowledgements
-
-This section will be addressed upon project completion.
-
-For a good report, I will look for some good examples of big data in e-commerce and analyze the advantages and disadvantages of the influence of big data in e-commerce. I will do more research on the pros and cons of big data in e-commerce. I will also study in the course to know more about big data.
-
-## 8. References
+## 6. References
 
 [^1]: Olechowski, Artur. “Big Data in E-Commerce: Key Trends and Tips for Beginners: Codete Blog.” Codete Blog - We Share Knowledge for IT Professionals, CODETE, 8 Sept 2020. <https://codete.com/blog/big-data-in-ecommerce/> 
 
