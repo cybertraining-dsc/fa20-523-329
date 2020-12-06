@@ -2,7 +2,7 @@
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-329/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-329/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-329/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-329/actions)
-Status: in progress
+Status: final
 
 Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [Edit](https://github.com/cybertraining-dsc/fa20-523-329/blob/main/report/report.md)
 
