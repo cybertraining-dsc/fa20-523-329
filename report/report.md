@@ -1,4 +1,14 @@
-# Big Data in E-Commerce
+---
+date: 2021-03-15
+title: Big Data in E-Commerce
+linkTitle: Big Data in E-Commerce
+tags: ["report", "ai", "finance"]
+description: Big Data in E-Commerce
+author: Wanru Li
+resources:
+- src: "**.{png,jpg}"
+  title: "Image #:counter"
+---
 
 [![Check Report](https://github.com/cybertraining-dsc/fa20-523-329/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-329/actions)
 [![Status](https://github.com/cybertraining-dsc/fa20-523-329/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/fa20-523-329/actions)
