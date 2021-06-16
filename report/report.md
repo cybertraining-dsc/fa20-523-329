@@ -3,7 +3,7 @@ date: 2021-03-15
 title: Big Data in E-Commerce
 linkTitle: Big Data in E-Commerce
 tags: ["report", "ai", "finance"]
-description: Big Data in E-Commerce
+description: "The topic of my report is big data in e-commerce. E-commerce is a big part of todays society. During the shopping online, the recommend commodities are fitter and fitter for my liking and willingness to buy. This is the merit of big data. Big data use my purchase history and browsing history to analyze my liking and recommend the goods for me."
 author: Wanru Li
 resources:
 - src: "**.{png,jpg}"
@@ -20,7 +20,7 @@ Wanru Li, [fa20-523-329](https://github.com/cybertraining-dsc/fa20-523-329/), [E
 
 ## Abstract
 
-The topic of my report is big data in e-commerce. In my life, e-commerce is a big part of my life. During the shopping online, the recommend commodities are fitter and fitter for my liking and willingness to buy. This is the merit of big data. Big data use my purchase history and browsing history to analyze my liking and recommend the goods for me.
+The topic of my report is big data in e-commerce. E-commerce is a big part of todays society. During the shopping online, the recommend commodities are fitter and fitter for my liking and willingness to buy. This is the merit of big data. Big data use my purchase history and browsing history to analyze my liking and recommend the goods for me.
 
 In our everyday lives, e-commerce is now a critical element. It redefines trading practices worldwide. Over the years the growth of eCommerce has been profound. As we move forward, we are learning how to grow eCommerce in this era and how to run an eCommerce company. The dominant mode of trading was brick-and-mortar until the rise of eCommerce. Brick and mortar firms have at least one physical location in supermarket stores. Goods must be bought and sold by active and physical contacts between the buyer and the seller. Brick and mortar trading continues, but eCommerce is increasingly replacing. Many brick and mortar retailers in an evolutionary manner turn themselves into eCommerce stores. This includes an online presence and bringing key company practices online.
 
