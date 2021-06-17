@@ -5,6 +5,7 @@ linkTitle: Big Data in E-Commerce
 tags: ["report", "ai", "finance"]
 description: "The topic of my report is big data in e-commerce. E-commerce is a big part of todays society. During the shopping online, the recommend commodities are fitter and fitter for my liking and willingness to buy. This is the merit of big data. Big data use my purchase history and browsing history to analyze my liking and recommend the goods for me."
 author: Wanru Li
+github_url: https://github.com/cybertraining-dsc/fa20-523-329/edit/main/report/report.md
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
